@@ -69,8 +69,8 @@ body {
   width: 36px;
   height: 36px;
   border-radius: 5px;
-
-  background: rgb(0, 16, 105) ;
+  
+  background: rgb(60, 209, 255) ;
 
   display: flex;
   justify-content: center;
@@ -78,7 +78,7 @@ body {
 }
 
 .ai .profile {
-  background: rgb(0, 141, 106);
+  background: rgb(34, 252, 197);
 }
 
 .profile img {
