@@ -1,6 +1,6 @@
 const form = document.querySelector('form');
 const chatContainer = document.querySelector('#chat_container');
-const serverApi = "http://localhost:5000/";
+const serverApi = "https://chatbotapinode.azurewebsites.net/";
 
 let loadInterval;
 
