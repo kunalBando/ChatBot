@@ -1,6 +1,6 @@
 const form = document.querySelector('form');
 const chatContainer = document.querySelector('#chat_container');
-const serverApi = "https://chatbotapinode.azurewebsites.net/";
+const serverApi = "https://chatbotnodeapi.azurewebsites.net/";
 
 let loadInterval;
 
