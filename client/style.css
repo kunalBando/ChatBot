@@ -8,13 +8,13 @@
 }
 
 body {
-  background: #ffff53;
+  background: #ffffff;
 }
 
 #app {
   width: 100vw;
   height: 100vh;
-  background: rgb(247, 230, 196);
+  background: rgb(255, 255, 255);
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -51,7 +51,7 @@ body {
 }
 
 .ai {
-  background: rgb(241, 195, 118)
+  background: rgb(255, 251, 42)
 }
 
 .chat {
@@ -119,7 +119,7 @@ form {
   margin: 0 auto;
   border: solid 1px #000000;
   padding: 10px;
-  background: rgb(255, 108, 34);
+  background: rgb(255, 251, 42);
 
   display: flex;
   flex-direction: row;
